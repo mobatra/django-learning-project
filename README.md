@@ -8,5 +8,6 @@ I have created separate repositories to document Django topics in detail. You ca
 
 - [Django MVT Patterns](https://github.com/Batrawi/django-server.git)
 - [Django URL Patterns](https://github.com/Batrawi/django-URL-params.git)
+- [Django Error Handling](https://github.com/Batrawi/django-error-handling.git)
 
 Feel free to explore these repositories to learn more about Django topics! 🚀
