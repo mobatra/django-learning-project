@@ -10,5 +10,6 @@ I have created separate repositories to document Django topics in detail. You ca
 - [Django URL Patterns](https://github.com/Batrawi/django-URL-params.git)
 - [Django Error Handling](https://github.com/Batrawi/django-error-handling.git)
 - [Django Migrations](https://github.com/Batrawi/django-migration.git)
+- [Django CRUD-ORM](https://github.com/Batrawi/Django-Create-CRUD-ORM.git)
 
 Feel free to explore these repositories to learn more about Django topics! 🚀
