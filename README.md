@@ -12,4 +12,3 @@ I have created separate repositories to document Django topics in detail. You ca
 - [Django Migrations](https://github.com/Batrawi/django-migration.git)
 - [Django CRUD-ORM](https://github.com/Batrawi/Django-Create-CRUD-ORM.git)
 - [Django little lemon store](https://github.com/Batrawi/django-little-lemon-store.git)
-Feel free to explore these repositories to learn more about Django topics! 🚀
