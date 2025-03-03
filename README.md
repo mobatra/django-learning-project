@@ -1,4 +1,4 @@
-# My Django Project
+# Django Project
 
 This is my Django project where I am learning and implementing Django concepts.
 
