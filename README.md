@@ -13,3 +13,4 @@ I have created separate repositories to document Django topics in detail. You ca
 - [Django CRUD-ORM](https://github.com/Batrawi/Django-Create-CRUD-ORM.git)
 - [Django little lemon store](https://github.com/Batrawi/django-little-lemon-store.git)
 - [Django Authentication-JWT](https://github.com/mobatra/JWT-Authentication-Django.git)
+- [Django Roles-System](https://github.com/mobatra/django-signals-give-roles.git)
